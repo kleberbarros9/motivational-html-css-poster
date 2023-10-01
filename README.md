@@ -19,7 +19,7 @@
   6. Read about the text-transform property on MDN docs to make the h1 uppercase with CSS.
   https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform 
 
-### Result
+### Resulting webpage
 
 <p align="center">
     <br>
