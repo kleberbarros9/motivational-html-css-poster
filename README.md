@@ -21,4 +21,9 @@
 
 ### Result
 
-<img style="  display: block; margin-left: auto; margin-right: auto; width: 50%;" src="./webpage-pic.png" alt="person climbing mountain" class="center">
+<p align="center">
+    <br>
+    <img src="./webpage-pic.png" alt="person climbing mountain" height=512px>
+    <h5 align="center">Figure 1 - Picture of the resulting webpage.</h5>
+    <br>
+</p>
