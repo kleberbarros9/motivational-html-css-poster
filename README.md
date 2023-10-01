@@ -1,4 +1,4 @@
-# Udemy project from Dr Angela Yu's web dev course
+# My motivational project from Dr Angela Yu's udemy web dev course
 
 ## Requirements
 
