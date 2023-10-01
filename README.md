@@ -21,3 +21,4 @@
 
 ### Result
 
+<img style="width: 50%;" src="./webpage-pic.png" alt="person climbing mountain" class="center">
